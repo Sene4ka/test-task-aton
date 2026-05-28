@@ -1,0 +1,6 @@
+python-docx
+openpyxl
+fpdf2
+PyPDF2
+py7zr
+rarfile
